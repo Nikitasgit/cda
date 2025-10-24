@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Evenb</h1>
+      <h1>EventHub</h1>
       <p>{data.message}</p>
 
       <div className="databases">
